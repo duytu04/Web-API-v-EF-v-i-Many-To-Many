@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthorBookApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+134b7ab4ad2111ba04b66abd9656b5ddc68a9228")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthorBookApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthorBookApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

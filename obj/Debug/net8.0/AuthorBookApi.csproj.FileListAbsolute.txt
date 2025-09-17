@@ -95,6 +95,7 @@ D:\dotnet\AuthorBookApi\obj\Debug\net8.0\AuthorBookApi.AssemblyInfo.cs
 D:\dotnet\AuthorBookApi\obj\Debug\net8.0\AuthorBookApi.csproj.CoreCompileInputs.cache
 D:\dotnet\AuthorBookApi\obj\Debug\net8.0\AuthorBookApi.MvcApplicationPartsAssemblyInfo.cs
 D:\dotnet\AuthorBookApi\obj\Debug\net8.0\AuthorBookApi.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\AuthorBookApi\obj\Debug\net8.0\AuthorBookApi.sourcelink.json
 D:\dotnet\AuthorBookApi\obj\Debug\net8.0\staticwebassets.build.json
 D:\dotnet\AuthorBookApi\obj\Debug\net8.0\staticwebassets.development.json
 D:\dotnet\AuthorBookApi\obj\Debug\net8.0\staticwebassets\msbuild.AuthorBookApi.Microsoft.AspNetCore.StaticWebAssets.props
